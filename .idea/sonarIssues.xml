@@ -43,6 +43,31 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/config/packages/dev/framework.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/config/packages/dev/parameters.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/config/packages/framework.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/config/packages/prod/framework.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/config/packages/prod/parameters.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/config/routes.yaml">
           <value>
             <set />
