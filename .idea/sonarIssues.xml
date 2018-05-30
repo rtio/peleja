@@ -53,6 +53,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/config/packages/easy_admin.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/config/packages/framework.yaml">
           <value>
             <set />
@@ -83,7 +88,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/Entity/Speaker.php">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/symfony.lock">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/templates/base.html.twig">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/templates/home.html.twig">
           <value>
             <set />
           </value>

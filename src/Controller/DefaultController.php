@@ -10,13 +10,16 @@ namespace App\Controller;
 
 
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
-use Symfony\Component\HttpFoundation\JsonResponse;
+use Symfony\Component\Routing\Annotation\Route;
 
 class DefaultController extends AbstractController
 {
-    public function test()
+    /**
+     * @Route("/")
+     * @return \Symfony\Component\HttpFoundation\Response
+     */
+    public function homePage()
     {
-        return new JsonResponse(json_encode(["status" => true, "code" => JsonResponse::HTTP_OK]),
-            JsonResponse::HTTP_OK, [], true);
+        return $this->render('home.html.twig');
     }
 }
