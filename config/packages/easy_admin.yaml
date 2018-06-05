@@ -1,6 +1,9 @@
 easy_admin:
     entities:
-#        # List the entity class name you want to manage
         - App\Entity\User
         - App\Entity\Speaker
-#        - App\Entity\User
+        - App\Entity\Subscriber
+        - App\Entity\Speak
+        - App\Entity\Subscription
+        - App\Entity\Event
+        - App\Entity\CallForPaper
